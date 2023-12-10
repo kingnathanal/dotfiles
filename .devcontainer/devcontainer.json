@@ -5,9 +5,6 @@
     "ghcr.io/flexwie/devcontainer-features/pulumi:1": {},
     "ghcr.io/audacioustux/devcontainers/k9s:1": {},
     "ghcr.io/devcontainers/features/aws-cli:1": {},
-    "ghcr.io/devcontainers/features/azure-cli:1": {},
-    "ghcr.io/devcontainers/features/common-utils:2": {
-      "configureZshAsDefaultShell": true
-    }
+    "ghcr.io/devcontainers/features/azure-cli:1": {}
   }
 }
